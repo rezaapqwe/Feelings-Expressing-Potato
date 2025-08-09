@@ -80,7 +80,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-(https://drive.google.com/file/d/1-7JXW0mG2afHmRaSpQofpdTYr6CG9a9sg)
+(https://drive.google.com/file/d/1-7JXW0mG2afHmRaSpQofpdTYr6CG9a9s/view?usp=sharing)
 
 # Additional Demos
 [Add any extra demo materials/links]
